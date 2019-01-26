@@ -1,0 +1,21 @@
+I want a system that would allow me to enter issues reported by my clients.
+
+1.   *    Every issue must be given a unique code or ID
+
+2.   *    The app should allow me to describe the issue
+ 
+3.   *    Add a severity tag [low, mild, severe, chaotic] to the issue
+
+4.   *    Type in the name of any of my workers I want to assign the issue
+
+5.   *    The issue must be saved with the current date and time
+
+6.   *    When I click save, a pop up should tell me that my issue has been saved and would be looked at shortly
+
+7.   *    The issues must be saved and stored in the browser with all the details above
+
+8.       I want to be able to see all issues that has come in in a table
+
+9.       And they should be ordered according to the severity; chaotic first, low last
+
+10.    	 I love my app with beautiful designs that would enhance user experience and not just for beauty sake
